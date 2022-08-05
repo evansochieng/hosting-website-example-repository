@@ -1,0 +1,10 @@
+/* Add background color to body */
+body {
+    background-color: grey;
+}
+
+p#motivation {
+    font-size: 24;
+    font-weight: bolder;
+    font-style: italic;
+}
